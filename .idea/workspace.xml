@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e47469ef-6143-4b74-9448-0afdb96182c7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -48,7 +47,7 @@
       <option name="presentableId" value="Default" />
       <updated>1612269880861</updated>
       <workItem from="1612269881984" duration="9000" />
-      <workItem from="1612275195634" duration="433000" />
+      <workItem from="1612275195634" duration="832000" />
     </task>
     <task id="LOCAL-00001" summary="123">
       <created>1612275324301</created>
@@ -57,7 +56,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612275324301</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="12312398">
+      <created>1612275647390</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1612275647390</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -78,6 +84,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="123" />
-    <option name="LAST_COMMIT_MESSAGE" value="123" />
+    <MESSAGE value="12312398" />
+    <option name="LAST_COMMIT_MESSAGE" value="12312398" />
   </component>
 </project>
