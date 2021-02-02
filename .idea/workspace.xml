@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e47469ef-6143-4b74-9448-0afdb96182c7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,6 +23,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.15966387" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -47,7 +48,7 @@
       <option name="presentableId" value="Default" />
       <updated>1612269880861</updated>
       <workItem from="1612269881984" duration="9000" />
-      <workItem from="1612275195634" duration="832000" />
+      <workItem from="1612275195634" duration="1367000" />
     </task>
     <task id="LOCAL-00001" summary="123">
       <created>1612275324301</created>
@@ -63,7 +64,21 @@
       <option name="project" value="LOCAL" />
       <updated>1612275647390</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="1231239899">
+      <created>1612276041301</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1612276041301</updated>
+    </task>
+    <task id="LOCAL-00004" summary="1231239899kl">
+      <created>1612276208166</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1612276208166</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -85,6 +100,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="123" />
     <MESSAGE value="12312398" />
-    <option name="LAST_COMMIT_MESSAGE" value="12312398" />
+    <MESSAGE value="1231239899" />
+    <MESSAGE value="1231239899kl" />
+    <option name="LAST_COMMIT_MESSAGE" value="1231239899kl" />
   </component>
 </project>
